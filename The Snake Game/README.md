@@ -1,0 +1,2 @@
+# Academic-Project-Snake
+This is a simlified version of the classic video game "Snake". This project started as a challenging assignment from my CS101 (Intro to Java) class. My professor claimed that non of her students have ever succeeded in making functional "Snake" game in her past years in teaching this class. I took her statement as a challenge. Without prior knowledge of Point, ArrayList classes I took on this challege and made a functional game out of it. This project is my first milestone in learning Java. 
